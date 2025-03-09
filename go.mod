@@ -1,4 +1,4 @@
-module github.com/zeebo/xxh3
+module github.com/daegalus/xxh3
 
 go 1.22
 
